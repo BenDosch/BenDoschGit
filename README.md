@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Ben. 
 
-## I am currently:
+## 🕒 I am currently:
 
-Attending [Holberton School Tulsa](https://www.holbertonschool.com/) and in the process of completing the Machiene Learning Specialization.
+👨‍🎓 Attending [Holberton School Tulsa](https://www.holbertonschool.com/) and in the process of completing the Machiene Learning Specialization.
 
-Learning about webscraping in the hopes of automating my future job search.
+📚 Learning about webscraping in the hopes of automating my future job search.
 
 ---
 
-## 👨‍🎓 How I got into computer science:
+## 💻 How I got into computer science:
 
  I attend college at University of California Santa Cruz where I got a B.A. in Psychology. After working in the field of mental health for several years I became fustrated with the electronic records system and other administrative systems used by the company and started comming up with solutions. I created better versions of forms used by staff for documentation, added automation to excell spredsheets, and other simple changes. This is where I discovered databases.
 
@@ -16,7 +16,7 @@ Learning about webscraping in the hopes of automating my future job search.
 
  I decided I wished to change career paths and after talking to several people working as database administrators I realized I needed a more solid foundtaion in programing as a whole. I found the Holberton School and after a few delays in enrolment due to Covid-19, began the full-time project baised 18 month program. I have currently completed the Foundations half of the program and chose Machiene Learning for the Specialization portion of my program.
   
-## Fun Facts:
+## 🎉Fun Facts:
   * I was in the movie American Gun as a child. 
   * I taught martial arts for around 5 years.
   * I wanted to be a doctor in highschool. After participateing in the People to People program where I discovered that indepth knowlage of medical procedures elicits a physically mirrored pain response when I see them. I decided not to got to medical school. (Not on the level mirror synesthesia, but it is deeply unplesent.)
