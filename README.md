@@ -6,6 +6,8 @@
 
 📚 Learning about webscraping in the hopes of automating my future job search.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDoschGit&theme=highcontrast&show_icons=true&hide=Shell&layout=compact)
+
 ---
 
 ## 💻 How I got into computer science:
