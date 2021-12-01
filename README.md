@@ -24,6 +24,6 @@
   
 ## 🎉Fun/Random Facts About Me:
   * Origami is a hobbie of mine. - I find it both calmin and fustrating. I'm aware those are basicly mutually exclusive.
-  * I was in the movie American Gun age 12. - I was played a non-speaking extra who gets shot but it was really fun!
+  * I was in the movie [American Gun](https://www.imdb.com/title/tt0416471/?ref_=ttfc_fc_tt) age 12. - I was played a non-speaking extra who gets shot but it was really fun!
   * Taught martial arts for around 5 years, practiced actively for 6. - Achieved blackbelt and learned a lot of life lessons, both about myself and other people.
   * Wanted to be a doctor in highschool. - After participateing in a program where I got to sample a college level medical course, I discovered that indepth knowlage of medical procedures elicits a mirrored pain response when I see them. I decided not to got to medical school. (Not on the level mirror synesthesia, but it is deeply unplesent.)
