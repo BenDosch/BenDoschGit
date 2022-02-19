@@ -5,9 +5,9 @@
 👨‍🎓 Attending [Holberton School Tulsa](https://www.holbertonschool.com/) and in the process of completing the Machiene Learning Specialization.
 
 📚 Currently learning/improving:
-* Webscraping
+* Data pipelines
 * Machine Learning
-* Python
+* Data Visualization
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDoschGit&theme=highcontrast&show_icons=true&hide=Shell&layout=compact)
 
