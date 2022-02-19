@@ -5,7 +5,6 @@
 👨‍🎓 Attending [Holberton School Tulsa](https://www.holbertonschool.com/) and in the process of completing the Machiene Learning Specialization.
 
 📚 Currently learning/improving:
-* Datascience
 * Webscraping
 * Machine Learning
 * Python
