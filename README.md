@@ -50,7 +50,7 @@ And More!
 
  Having some light expeirance making websights and coding in python, databases and the clean and efficent way the organized and haldeled data was beautiful to me. I took night classes at the [Universtity of California Los Angeles Exenshion](https://www.uclaextension.edu/digital-technology/data-analytics-management/certificate/database-management) where I recieved a Certificate in Database management and then studdied on my own to pass the Microsoft Certification test for [MTA: Database Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/mta-database-fundamentals/). 
 
- I decided I wished to change career paths and after talking to several people working as database administrators I realized I needed a more solid foundtaion in programing as a whole. I found the [Holberton School](https://www.holbertonschool.com/) and after a few delays in enrolment due to Covid-19, began the full-time project baised 18 month program in Tulsa, OK. I have currently completed the Foundations half of the program and chose Machiene Learning for the Specialization portion of my program.
+ I decided I wished to change career paths and after talking to several people working as database administrators I realized I needed a more solid foundtaion in programing as a whole. I found the [Holberton School](https://www.holbertonschool.com/) and after a few delays in enrolment due to Covid-19, began the full-time project baised 20 month program in Tulsa, OK. I have currently completed the Foundations half of the program and chose Machiene Learning for the Specialization portion of my program.
   
 ## 🎉Fun/Random Facts About Me:
   * Origami is a hobbie of mine.
