@@ -40,7 +40,6 @@ My intrest in data generally has lead me to explore database management, data an
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](www.github.com/#gh-dark-mode-only "GitHub")
 [<img align="left" alt="Slack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" style="padding-right:10px;" />](www.slack.com/ "Slack")
 [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />](https://ubuntu.com/ "ubuntu")
-And More!
 
 ---
 
