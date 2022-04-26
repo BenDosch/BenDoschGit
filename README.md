@@ -7,10 +7,7 @@ My interest in data generally has lead me to explore database management, data a
 
 💼 Job searching for work at a company where I can start my new career!
 
-📚 Expaning my knowlage of:
-* Data Engineering
-* Machine Learning
-* Exploratory Data Analysis
+📚 Expaning my knowlage of data engineering, machine learning, and exploratory data analysis
 
 ---
 
