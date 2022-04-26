@@ -36,6 +36,12 @@ My interest in data generally has lead me to explore database management, data a
 [<img align="left" alt="Linux" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" style="padding-right:10px;" />](https://www.linux.org/ "Linux")
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenDoschGit&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true&show_icons=true&line_height=29) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDoschGit&theme=tokyonight&langs_count=8&hide=SCSS&layout=compact)
 
 ---
