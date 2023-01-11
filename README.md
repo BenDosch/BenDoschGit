@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Ben.
 
-👨‍🎓 I'm a software developer who's just graduated from the [Holberton School Tulsa](https://www.holbertonschool.com/) Machine Learning Specialization.
-My interest in data generally has lead me to explore database management, data analytics, data engineering, data science, and machine learning. Please check out my various projects and feel free to get in touch.
+👨‍🎓 I'm a software developer who's just graduated from the [Holberton School Tulsa](https://www.holbertonschool.com/) Machine Learning Specialization, and have started my first job in tech after 8 years working in mental health.
+I still have a strong intrest in data science and do projects here and there but have been spending more time lately improving my web-dev skills for my current position.
 
 ## 🕒 I am currently:
 
-💼 Job searching for work at a company where I can start my new career!
+💼 Working my first job after switching fields to tech!
 
-📚 Expaning my knowlage of data engineering, machine learning, and exploratory data analysis
+📚 Learning all I can about React, Redux, and Django.
 
 ---
 
